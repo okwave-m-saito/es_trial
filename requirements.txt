@@ -1,0 +1,5 @@
+python-dotenv==0.9.1
+flask==1.0.2
+sshtunnel==0.0.8.1
+paramiko==1.16.0
+requests==2.18.4
